@@ -18,3 +18,9 @@ console.log( 'type of Tocheck1:',typeof ToCheck1);
 console.log( 'type of Tocheck2:',typeof ToCheck2);
 console.log( 'type of Tocheck3:',typeof ToCheck3);
 
+//task3
+var greetings = 'Hello ';
+var Name = 'Amna Mohamed';
+var message = greetings + Name;
+
+console.log(message);
